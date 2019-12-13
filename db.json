@@ -1,0 +1,65 @@
+{
+    "Mohit": [
+      { "data":  [47,  48, 84]  }
+    ],
+    "Rahul": [
+        { "data":  [44,  35, 94]  }
+    ],
+
+    "Goyal": [
+        { "data":  [80]  }
+      ],
+      "Jain": [
+          { "data":  [60]  }
+      ],
+
+    "Dev": [
+        {"data" : [120, 200, 150, 30, 50, 90], "label": "Rahul Jain"},
+        {"data" : [180, 160, 70, 40, 120, 90],  "label": "Neha Bakshi"},
+            {"data" : [120, 200, 150, 30, 50, 90], "label": "Sivapriya"},
+                {"data" : [180, 160, 70, 40, 120, 90],  "label": "Siddhartha Saini"},
+                    {"data" : [120, 200, 150, 30, 50, 90], "label": "Priya Saxena"},
+                        {"data" : [180, 160, 70, 40, 120, 90],  "label": "Sayali Shinde"}
+    ],
+ 
+
+    "QA": [
+        {"data" : [120, 200, 150, 30, 50, 90], "label": "Prem Prakash"},
+            {"data" : [180, 160, 70, 40, 120, 90],  "label": "Varun Sharma"},
+                {"data" : [120, 200, 150, 30, 50, 90], "label": "Priyanka Shitole"},
+                    {"data" : [180, 160, 70, 40, 120, 90],  "label": "Azhar Ahmed"}
+    ],
+    "DBA": [
+        {"data" : [120, 200, 150, 30, 50, 90], "label": "Akshara Pathak"},
+            {"data" : [180, 160, 70, 40, 120, 90],  "label": "Ronak Tiwari"},
+                {"data" : [120, 200, 150, 30, 50, 90], "label": "Sayali Mahajan"},
+                    {"data" : [180, 160, 70, 40, 120, 90],  "label": "Apeksha Jain"},
+                        {"data" : [120, 200, 150, 30, 50, 90], "label": "Gore Laal"}
+    ],
+
+    
+    "Devnb": [
+        {"data" : [340, 180, 345, 40, 55, 90], "label": "Rahul Jain"},
+        {"data" : [200, 160, 70, 40, 120, 90],  "label": "Neha Bakshi"},
+            {"data" : [490, 200, 150, 30, 50, 90], "label": "Sivapriya"},
+                {"data" : [120, 160, 70, 40, 120, 90],  "label": "Siddhartha Saini"},
+                    {"data" : [340, 190, 150, 30, 50, 90], "label": "Priya Saxena"},
+                        {"data" : [539, 230, 70, 40, 120, 90],  "label": "Sayali Shinde"}
+    ],
+ 
+
+    "QAnb": [
+        {"data" : [340, 200, 150, 30, 50, 90], "label": "Prem Prakash"},
+            {"data" : [120, 160, 60, 40, 120, 90],  "label": "Varun Sharma"},
+                {"data" : [450, 320, 150, 30, 50, 90], "label": "Priyanka Shitole"},
+                    {"data" : [340, 160, 70, 40, 120, 90],  "label": "Azhar Ahmed"}
+    ],
+    "DBAnb": [
+        {"data" : [149, 300, 120, 30, 50, 90], "label": "Akshara Pathak"},
+            {"data" : [320, 220, 50, 40, 120, 90],  "label": "Ronak Tiwari"},
+                {"data" : [120, 200, 150, 30, 50, 90], "label": "Sayali Mahajan"},
+                    {"data" : [300 , 160, 70, 40, 120, 90],  "label": "Apeksha Jain"},
+                        {"data" : [450, 200, 150, 30, 50, 90], "label": "Gore Laal"}
+    ]
+
+  }
